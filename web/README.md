@@ -1,4 +1,4 @@
-# 💰 ФАЕРБЕЙС - ГУГЛ 💰
+# 🔥 💵 FIREBASE - ГУГЛ 💵 🔥
 
 Старт код [Пример приложения](https://codelabs.developers.google.com/codelabs/firebase-web/).
 
